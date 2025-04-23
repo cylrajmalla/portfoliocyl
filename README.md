@@ -1,6 +1,6 @@
 
 
-![Developer Portfolio](https://sahilrajmalla.netlify.app/)
+![sahil raj malla Portfolio](https://sahilrajmalla.netlify.app/)
 
 This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://sahilrajmalla.netlify.app/) and the [Git Content Source](https://sahilrajmalla.netlify.app/).
 
@@ -15,7 +15,6 @@ The codebase showcases **how to apply annotations at scale**, meaning: how to ma
 
 ## Deploying to Netlify
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
 
