@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/contact.jpg
+  url: /images/Accenture-Logo.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
