@@ -44,7 +44,7 @@ sections:
           - pl-4
           - pr-4
         flexDirection: row-reverse
-        textAlign: right
+        textAlign: left
     type: HeroSection
     actions: []
   - colors: colors-f
