@@ -77,7 +77,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "+9779801260669",
             "email": "sahilrajmalla@gmail.com",
             "emailAltText": "My email",
