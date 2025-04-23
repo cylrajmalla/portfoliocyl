@@ -13,14 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: |-
-      I am a Senior HR Specialist, With over three 
-      years of experience in this role, I have successfully sourced, 
-      evaluated, qualified, and deployed candidates for various technical 
-      roles, such as software engineers, data scientists, cloud architects, 
-      and cybersecurity analysts.I have a diverse background and skill
-       set that enable me to understand the needs and expectations of both 
-      clients and candidates.
+    title: I am a Senior HR Specialist
     subtitle: |-
       I am an accountant and have five years of 
       experience in accounting and tax return preparation. I also have four 
