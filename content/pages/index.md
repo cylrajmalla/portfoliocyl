@@ -21,10 +21,14 @@ sections:
       and cybersecurity analysts.I have a diverse background and skill
        set that enable me to understand the needs and expectations of both 
       clients and candidates.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: |-
+      I am an accountant and have five years of 
+      experience in accounting and tax return preparation. I also have four 
+      years of experience as a freelance digital marketer, specializing in SEO
+       and online branding. I leverage my knowledge and expertise in IT and 
+      finance to find and attract the best talent for CodingMountain. I am 
+      passionate about connecting people with opportunities and helping them 
+      grow their careers.
     styles:
       self:
         height: auto
