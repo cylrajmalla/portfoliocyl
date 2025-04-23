@@ -1,6 +1,6 @@
 
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+![Developer Portfolio](https://sahilrajmalla.netlify.app/)
 
 This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://sahilrajmalla.netlify.app/) and the [Git Content Source](https://sahilrajmalla.netlify.app/).
 
