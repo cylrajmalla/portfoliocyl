@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: |-
-      I’m a I am a Senior HR Specialist, With over three 
+      I am a Senior HR Specialist, With over three 
       years of experience in this role, I have successfully sourced, 
       evaluated, qualified, and deployed candidates for various technical 
       roles, such as software engineers, data scientists, cloud architects, 
