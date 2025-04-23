@@ -13,7 +13,20 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: I’m a
+    title: |-
+      I’m a I am a Senior HR Specialist, With over three 
+      years of experience in this role, I have successfully sourced, 
+      evaluated, qualified, and deployed candidates for various technical 
+      roles, such as software engineers, data scientists, cloud architects, 
+      and cybersecurity analysts.I have a diverse background and skill
+       set that enable me to understand the needs and expectations of both 
+      clients and candidates. I am an accountant and have five years of 
+      experience in accounting and tax return preparation. I also have four 
+      years of experience as a freelance digital marketer, specializing in SEO
+       and online branding. I leverage my knowledge and expertise in IT and 
+      finance to find and attract the best talent for CodingMountain. I am 
+      passionate about connecting people with opportunities and helping them 
+      grow their careers.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
