@@ -34,6 +34,14 @@
             },
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/sahilrajmalla",
+                "icon": "facebook",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/cylrajmalla",
