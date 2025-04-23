@@ -2,16 +2,16 @@
 
 ![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
 
-This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://sahilrajmalla.netlify.app/) and the [Git Content Source](https://sahilrajmalla.netlify.app/).
 
-The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://docs.netlify.com/visual-editor/visual-editing/inline-editor/) through data attributes without manually adding code throughout the codebase.
+The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://sahilrajmalla.netlify.app/) through data attributes without manually adding code throughout the codebase.
 
 **This is achieved by:**
 
 1. Adding an annotation property to the content objects at they're loaded (see `src/utils/content.ts`)
 1. When rendering the page, each content sub-object is dynamically matched to the appropriate component. At this point, wrap each component with an annotation, based on the abovementioned content property. See `src/components/components-registry.tsx`.
 
-**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
+**⚡ Demo:** [sahilrajmalla.netlify.app](https://sahilrajmalla-portfolio.netlify.app)
 
 ## Deploying to Netlify
 
