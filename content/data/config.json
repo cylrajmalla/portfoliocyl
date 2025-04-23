@@ -60,7 +60,7 @@
                 "label": "Contact",
                 "url": "sahilrajmalla@gmail.com",
                 "altText": "",
-                "showIcon": false
+                "showIcon": true
             },
             {
                 "type": "Link",
