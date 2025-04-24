@@ -5,13 +5,23 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Sahil Raj Malla",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://drive.google.com/file/d/1bod_W4CNM-J9ZdtaKF3_H0j-CQrxtec0/view?usp=drive_link",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Download CV",
+                "url": ""
             },
             {
                 "type": "Link",
@@ -21,7 +31,7 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "url": "/blog"
+                "url": "https://technologicaladvancementcyl.blogspot.com/2013/07/safe-technology-great-future.html"
             }
         ],
         "socialLinks": [
@@ -52,6 +62,13 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/ChatGPT Image Apr 24, 2025, 01_24_39 PM.png",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     },
     "footer": {
