@@ -30,16 +30,6 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
-                "altText": "",
-                "url": "https://technologicaladvancementcyl.blogspot.com/2013/07/safe-technology-great-future.html",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
             }
