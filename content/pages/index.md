@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: I am a Senior HR Specialist
     subtitle: >-
       With over three years of experience in this role, I have successfully
