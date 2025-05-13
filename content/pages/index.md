@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: full
-    title: I am a Senior HR Specialist
+    title: I am a Senior HR Specialist/ Talent Acquisition manager
     subtitle: >-
       With over three years of experience in this role, I have successfully
       sourced, evaluated, qualified, and deployed candidates for various
