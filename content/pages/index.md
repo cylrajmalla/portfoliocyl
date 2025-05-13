@@ -8,18 +8,27 @@ sections:
     backgroundSize: full
     title: I am a Senior HR Specialist/ Talent Acquisition manager
     subtitle: >-
-      With over three years of experience in this role, I have successfully
-      sourced, evaluated, qualified, and deployed candidates for various
-      technical roles, such as software engineers, data scientists, cloud
-      architects, and cybersecurity analysts.I have a diverse background and
-      skill set that enable me to understand the needs and expectations of both
-      clients and candidates.I am an accountant and have five years of
-      experience in accounting and tax return preparation. I also have four
-      years of experience as a freelance digital marketer, specializing in SEO
-      and online branding. I leverage my knowledge and expertise in IT and
-      finance to find and attract the best talent for CodingMountain. I am
-      passionate about connecting people with opportunities and helping them
-      grow their careers.
+      With over three years of experience in technical recruitment, I have
+      successfully sourced, assessed, and placed top-tier talent across a range
+      of in-demand roles — including software engineers, data scientists, cloud
+      architects, and cybersecurity analysts. My approach blends deep industry
+      understanding with a people-first mindset, allowing me to match the right
+      talent with the right opportunities at the right time.What sets me apart
+      is my diverse professional background:
+
+      A five-year career in accounting and tax advisory, giving me a sharp eye
+      for detail and a strong foundation in financial compliance and analytics.
+
+
+      Four years as a freelance digital marketer, specializing in SEO, content
+      strategy, and online branding, which honed my ability to position
+      opportunities and candidates in compelling, high-impact ways.
+
+      At CodingMountain, I leverage this unique mix of IT, finance, and
+      marketing acumen to build tailored sourcing strategies, engage niche
+      talent, and deliver hiring outcomes that align with business growth.More
+      than just filling roles, I’m passionate about building careers — creating
+      connections that are meaningful, lasting, and growth-oriented.
     styles:
       self:
         height: auto
