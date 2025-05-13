@@ -11,8 +11,8 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
-    backgroundSize: inset
+    colors: colors-e
+    backgroundSize: full
     title: I am a Senior HR Specialist
     subtitle: >-
       With over three years of experience in this role, I have successfully
@@ -51,7 +51,7 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - colors: colors-f
+  - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
     actions:
