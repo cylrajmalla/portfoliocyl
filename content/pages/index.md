@@ -2,13 +2,6 @@
 type: PageLayout
 title: Home
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: '/images/ChatGPT Image Apr 24, 2025, 01_24_39 PM.png'
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-e
