@@ -24,8 +24,8 @@ sections:
       strategy, and online branding, which honed my ability to position
       opportunities and candidates in compelling, high-impact ways.
 
-      At CodingMountain, I leverage this unique mix of IT, finance, and
-      marketing acumen to build tailored sourcing strategies, engage niche
+      At CodingMountain, I leverage this unique mix of IT, Recruitment, and
+      Brand Marketing acumen to build tailored sourcing strategies, engage niche
       talent, and deliver hiring outcomes that align with business growth.More
       than just filling roles, I’m passionate about building careers — creating
       connections that are meaningful, lasting, and growth-oriented.
