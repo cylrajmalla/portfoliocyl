@@ -51,7 +51,7 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - colors: colors-f
+  - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
     actions:
