@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     backgroundSize: full
     title: I am a Senior HR Specialist
     subtitle: >-
