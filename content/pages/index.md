@@ -8,7 +8,7 @@ sections:
     backgroundSize: full
     title: I am a Talent Acquisition manager/ Senior Human resources Specialist
     subtitle: >-
-      With over Five years of experience in technical recruitment, I have
+      With over five years of experience in technical recruitment, I have
       successfully sourced, assessed, and placed top-tier talent across a range
       of in-demand roles including software engineers, data scientists, cloud
       architects, and cybersecurity analysts. My approach blends deep industry
