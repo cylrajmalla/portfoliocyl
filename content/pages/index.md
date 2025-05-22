@@ -3,6 +3,33 @@ type: PageLayout
 title: Home
 colors: colors-a
 sections:
+  - colors: colors-e
+    type: FeaturedProjectsSection
+    elementId: ''
+    actions:
+      - type: Link
+        label: See all projects
+        url: /projects
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects:
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        textAlign: left
+    subtitle: Projects
   - elementId: ''
     colors: colors-e
     backgroundSize: full
@@ -53,33 +80,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - colors: colors-e
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
-    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
