@@ -47,7 +47,7 @@ sections:
       type: ImageBlock
       url: /images/420111651_7544901958888239_8344759250389245153_n.jpg
       altText: altText of the image
-      caption: Caption of the image
+      caption: Sahil Raj Malla
       elementId: ''
   - colors: colors-e
     type: FeaturedProjectsSection
