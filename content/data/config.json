@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "Learn more",
                 "altText": "",
-                "url": "https://drive.google.com/file/d/1bod_W4CNM-J9ZdtaKF3_H0j-CQrxtec0/view?usp=drive_link",
+                "url": "https://drive.google.com/file/d/1opBz83px9i-eawe9FJwwQDH4671UL9uq/view?usp=drive_link",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "Download CV",
-                "url": "https://drive.google.com/file/d/13B7XEL1uLNYfVCagwiTjGouVVRQcgC1S/view?usp=drive_link"
+                "url": "https://drive.google.com/file/d/1opBz83px9i-eawe9FJwwQDH4671UL9uq/view?usp=drive_link"
             },
             {
                 "type": "Link",
@@ -46,7 +46,7 @@
                 "type": "Social",
                 "label": "Facebook",
                 "altText": "",
-                "url": "/sahilrajmalla",
+                "url": "https://www.facebook.com/sahilrajmalla",
                 "icon": "facebook",
                 "elementId": ""
             },
@@ -96,7 +96,7 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/cylrajmalla",
                 "altText": "Netlify templates"
             }
         ],
@@ -110,7 +110,7 @@
             "address": "Gyaneshwor, Kathmandu, Nepal",
             "addressAltText": "Gyaneshwor, Kathmandu, Nepal"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
