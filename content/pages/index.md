@@ -159,4 +159,8 @@ sections:
         flexDirection: row
         textAlign: left
 socialImage: '/images/ChatGPT Image Apr 24, 2025, 01_24_39 PM.png'
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
