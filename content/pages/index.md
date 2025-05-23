@@ -41,7 +41,7 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: center
-        borderRadius: none
+        borderRadius: full
         borderWidth: 0
         borderStyle: dashed
     type: HeroSection
