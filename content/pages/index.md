@@ -42,7 +42,7 @@ sections:
         flexDirection: col-reverse
         textAlign: center
         borderRadius: xx-large
-        borderWidth: 1
+        borderWidth: 4
         borderStyle: dashed
         borderColor: border-(--theme-dark)
     type: HeroSection
