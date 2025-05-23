@@ -41,6 +41,7 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: center
+        borderRadius: xx-small
     type: HeroSection
     actions: []
     media:
