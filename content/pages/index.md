@@ -43,6 +43,7 @@ sections:
         textAlign: center
         borderRadius: none
         borderWidth: 0
+        borderStyle: solid
     type: HeroSection
     actions: []
     media:
