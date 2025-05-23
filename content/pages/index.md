@@ -44,6 +44,7 @@ sections:
         borderRadius: none
         borderWidth: 0
         borderStyle: dashed
+        borderColor: border-(--theme-dark)
     type: HeroSection
     actions: []
     media:
