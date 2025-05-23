@@ -42,7 +42,7 @@ sections:
         flexDirection: col-reverse
         textAlign: center
         borderRadius: none
-        borderWidth: 3
+        borderWidth: 1
     type: HeroSection
     actions: []
     media:
