@@ -41,7 +41,7 @@ sections:
           - pr-4
         flexDirection: col-reverse
         textAlign: center
-        borderRadius: none
+        borderRadius: xx-large
         borderWidth: 0
         borderStyle: dashed
         borderColor: border-(--theme-dark)
