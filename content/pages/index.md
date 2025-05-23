@@ -108,6 +108,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+        borderRadius: large
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
