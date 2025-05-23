@@ -39,7 +39,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        flexDirection: col
+        flexDirection: col-reverse
         textAlign: center
         borderRadius: none
         borderWidth: 0
