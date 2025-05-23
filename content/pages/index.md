@@ -30,7 +30,7 @@ sections:
         height: screen
         width: full
         margin:
-          - mt-0
+          - mt-1
           - mb-0
           - ml-0
           - mr-0
