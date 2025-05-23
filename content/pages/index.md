@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-e
-    backgroundSize: inset
+    backgroundSize: full
     title: I am a Talent Acquisition manager/ Senior Human resources Specialist
     subtitle: >-
       With over five years of experience in technical recruitment, I have
