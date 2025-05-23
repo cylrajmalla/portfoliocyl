@@ -27,7 +27,7 @@ sections:
       and growth-oriented.
     styles:
       self:
-        height: auto
+        height: screen
         width: full
         margin:
           - mt-0
