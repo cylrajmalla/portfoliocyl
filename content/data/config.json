@@ -76,22 +76,10 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Contact",
                 "url": "sahilrajmalla@gmail.com",
                 "altText": "",
                 "showIcon": true
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
             },
             {
                 "type": "Link",
