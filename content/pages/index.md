@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundSize: full
     title: I am a Talent Acquisition manager/ Senior Human resources Specialist
     subtitle: ''
