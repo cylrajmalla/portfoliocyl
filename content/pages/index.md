@@ -54,7 +54,10 @@ sections:
       strategies, engage niche talent, and deliver hiring outcomes that align
       with business growth. More than just filling roles, I’m passionate about
       building careers  creating connections that are meaningful, lasting, and
-      growth-oriented.</div>
+      growth-oriented.
+
+
+      </div>
 
   - colors: colors-e
     type: FeaturedProjectsSection
