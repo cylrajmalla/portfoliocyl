@@ -36,7 +36,9 @@ sections:
       altText: altText of the image
       caption: Sahil Raj Malla
       elementId: ''
-    text: >
+    text: >+
+      ```
+
       With over five years of experience in technical recruitment, I have
       successfully sourced, assessed, and placed top-tier talent across a range
       of in-demand roles including software engineers, data scientists, cloud
@@ -44,6 +46,10 @@ sections:
       understanding with a people-first mindset, allowing me to match the right
       talent with the right opportunities at the right time.
 
+      ```
+
+
+      ```
 
       What sets me apart is my diverse professional background: A five-year
       career in accounting and tax advisory, giving me a sharp eye for detail
@@ -52,12 +58,19 @@ sections:
       and online branding, which honed my ability to position opportunities and
       candidates in compelling, high-impact ways.
 
+      ```
+
+
+      ```
 
       At CodingMountain, I leverage this unique mix of IT, Recruitment, and
       Brand Marketing acumen to build tailored sourcing strategies, engage niche
       talent, and deliver hiring outcomes that align with business growth. More
       than just filling roles, I’m passionate about building careers  creating
       connections that are meaningful, lasting, and growth-oriented.
+
+      ```
+
   - colors: colors-e
     type: FeaturedProjectsSection
     elementId: ''
