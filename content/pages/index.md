@@ -37,7 +37,7 @@ sections:
       caption: Sahil Raj Malla
       elementId: ''
     text: >+
-      <div style="text-align: left">With over five years of experience in
+      <div style="text-align: center">With over five years of experience in
       technical recruitment, I have successfully sourced, assessed, and placed
       top-tier talent across a range of in-demand roles including software
       engineers, data scientists, cloud architects, and cybersecurity analysts.
