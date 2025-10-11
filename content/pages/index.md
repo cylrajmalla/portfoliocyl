@@ -173,5 +173,5 @@ metaTags:
   - type: MetaTag
     property: 'og:title'
     content: ''
-addTitleSuffix: false
+addTitleSuffix: true
 ---
